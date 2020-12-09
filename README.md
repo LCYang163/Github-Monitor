@@ -14,7 +14,7 @@
 
 -----
 
-**GITHUB MONITOR** 是vipkid安全研发团队打造的用于监控Github代码仓库的系统。通过该系统可以及时发现企业内部代码泄露、从而降低由于代码泄露导致的一系列安全风险。用户仅需通过简单的任务配置，即可在分钟级发现代码泄露的情况。项目后端使用 **[django-rest-framework](https://www.django-rest-framework.org/)** 开发，前端使用 **[react](https://reactjs.org/)** 和 **[antd-pro](https://pro.ant.design/)** 开发。
+
 
 
 ## 系统特点
